@@ -10,7 +10,7 @@ pip install -e .
 
 Clone pyedfread for reading Eyelink files from GitHub to your computer by selecting Clone->Open in Desktop: 
 
-https://github.com/nwilming/pyedfread
+https://github.com/s-ccs/pyedfread
 
 While still in the Terminal window, change directory to where the pyedfread code is saved, and do:
 
