@@ -1,6 +1,6 @@
 Cython
 hdf5storage
-hickle == 4.0.0
+hickle
 h5py
 matplotlib
 neo
